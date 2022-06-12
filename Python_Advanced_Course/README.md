@@ -1,7 +1,7 @@
 # SoftUni_Judge_Python_Problems
 
 # SoftUni Judge
-- Automating testing platform
+- Automated testing (platform)
 - Problems Solutions (100/100)
 
 # Python Advanced Course
