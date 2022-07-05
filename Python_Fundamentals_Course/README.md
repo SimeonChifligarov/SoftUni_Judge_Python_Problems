@@ -6,7 +6,7 @@
 
 # Python Fundamentals Course (Lab + Exercises + More Exercises)
 - 00 Python Fundamentals Exam Preps
-    - (10) Exam preparations - (with) 3 exam problems each
+    - (11) Exam preparations - (with) 3 exam problems each
     - Lists, Functions, List Advanced (Mid Exam, i.e. Part 1)
     - Text Processing, RegEx, List Advanced & Dictionaries (Final Exam, i.e. Part 2)
 - 01 Basic Syntax
